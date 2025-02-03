@@ -6,6 +6,6 @@ This difference in SQLs presented obstacles that made me truly learn how SQL and
 
   The most significat challenge was in exploration where it took me hours to find a workaround for a rolling total. 
 However, it was not the rolling total that caused the greatest barrier, but trying to pull YEAR and MONTH out of 
-the 'date' column which was a date data type. I feel like I went down every rabbit hole that could be imagined 
+the 'date' column which was a date data type. I feel like I went down every rabbit hole that could be imagined                 (Line 70 of Data Exploration Project 'Layoffs'.sql) 
 in such a circumstance. I learned so much along the way that I was grateful for the problem after I had found the 
 solution.
